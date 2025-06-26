@@ -36,6 +36,8 @@ Click a point in the list to select it (it will be highlighted).
 
 Click on the map to place the marker for the selected point.
 
+Click the point on the map to show its name.
+
 Double-click a point in the list to remove it and its marker.
 
 Zoom out to see markers cluster automatically.
