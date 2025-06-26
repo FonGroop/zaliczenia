@@ -20,11 +20,11 @@ pnpm install
 ```
 (or npm install / yarn install)
 
-    Start the development server:
+Start the development server:
 ```bash
 pnpm dev
 ```
-    Open your browser and navigate to:
+Open your browser and navigate to:
 
 http://localhost:5173
 
