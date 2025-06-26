@@ -1,7 +1,6 @@
 
 import L from 'leaflet';
 import 'leaflet.markercluster';
-import { map } from './map.js';
 import { markPointAsPlaced, unmarkPoint } from './points.js';
 
 export const clusterGroup = L.markerClusterGroup();
