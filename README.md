@@ -28,7 +28,7 @@ Open your browser and navigate to:
 
 http://localhost:5173
 
-###Usage
+### Usage
 
 Enter a point name in the input and click Add to add it to the list.
 
