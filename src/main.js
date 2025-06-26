@@ -1,6 +1,6 @@
-import { initMap, addMapClickHandler } from './map.js';
-import { initializePoints, addPointToList, isPointInList, highlightMarkerPoint } from './points.js';
-import { addMarker, hasMarker, clusterGroup } from './markerManager.js';
+import { initMap, addMapClickHandler } from './modules/map.js';
+import { initializePoints, addPointToList, isPointInList, highlightMarkerPoint } from './modules/points.js';
+import { addMarker, hasMarker, clusterGroup } from './modules/markerManager.js';
 
 window.selectedPoint = null;
 
